@@ -1,6 +1,6 @@
 # Site settings
 title:        "Vijay Tadimeti"
-description:  "Hi, this is a website about me. Personal and Professional."
+description:  "A demo website. Trying jekyll."
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "http://yourdomain.com" # the base hostname & protocol for your site
 permalink:    /:year/:title
